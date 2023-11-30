@@ -42,5 +42,5 @@ Restart = always
 ExecStart = /usr/bin/wvdial
 EOF
 
-echo "Please reboot your system"
-echo "Do "sudo ifconfig wlan0 down" if necessary"
+echo "システムを再起動してください"
+echo "必要に応じて "sudo ifconfig wlan0 down" を実行してください"
